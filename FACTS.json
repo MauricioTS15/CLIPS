@@ -1,0 +1,319 @@
+{
+    "vuelos": [
+      {
+        "hora_salida": "06:30",
+        "hora_llegada": "09:00",
+        "origen": "CDG",
+        "destino": "BER",
+        "aerolinea": "Air-France",
+        "vuelo": "AF101",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "10:15",
+        "hora_llegada": "12:45",
+        "origen": "CDG",
+        "destino": "BER",
+        "aerolinea": "Air-France",
+        "vuelo": "AF102",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "14:00",
+        "hora_llegada": "16:30",
+        "origen": "HND",
+        "destino": "SIN",
+        "aerolinea": "Singapore-Airlines",
+        "vuelo": "SQ303",
+        "estado": "cancelado"
+      },
+      {
+        "hora_salida": "18:00",
+        "hora_llegada": "20:15",
+        "origen": "AMS",
+        "destino": "IST",
+        "aerolinea": "KLM",
+        "vuelo": "KL404",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "11:30",
+        "hora_llegada": "13:50",
+        "origen": "FRA",
+        "destino": "SVO",
+        "aerolinea": "Lufthansa",
+        "vuelo": "LH505",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "08:45",
+        "hora_llegada": "11:20",
+        "origen": "AMS",
+        "destino": "DXB",
+        "aerolinea": "Emirates",
+        "vuelo": "EK606",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "22:00",
+        "hora_llegada": "00:30",
+        "origen": "SYD",
+        "destino": "AKL",
+        "aerolinea": "Qantas",
+        "vuelo": "QF707",
+        "estado": "cancelado"
+      },
+      {
+        "hora_salida": "09:15",
+        "hora_llegada": "11:45",
+        "origen": "EZE",
+        "destino": "LIM",
+        "aerolinea": "LATAM",
+        "vuelo": "LA808",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "16:50",
+        "hora_llegada": "19:30",
+        "origen": "YYZ",
+        "destino": "ORD",
+        "aerolinea": "Air-Canada",
+        "vuelo": "AC909",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "12:20",
+        "hora_llegada": "14:55",
+        "origen": "EZE",
+        "destino": "SCL",
+        "aerolinea": "LATAM",
+        "vuelo": "LA010",
+        "estado": "cancelado"
+      },
+      {
+        "hora_salida": "07:45",
+        "hora_llegada": "10:15",
+        "origen": "CDG",
+        "destino": "BER",
+        "aerolinea": "Air-France",
+        "vuelo": "AF103",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "13:30",
+        "hora_llegada": "16:00",
+        "origen": "LHR",
+        "destino": "DXB",
+        "aerolinea": "British-Airways",
+        "vuelo": "BA212",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "19:00",
+        "hora_llegada": "21:30",
+        "origen": "HKG",
+        "destino": "LAX",
+        "aerolinea": "Cathay-Pacific",
+        "vuelo": "CX313",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "05:15",
+        "hora_llegada": "07:45",
+        "origen": "ORD",
+        "destino": "MEX",
+        "aerolinea": "American-Airlines",
+        "vuelo": "AA414",
+        "estado": "cancelado"
+      },
+      {
+        "hora_salida": "09:50",
+        "hora_llegada": "12:20",
+        "origen": "ICN",
+        "destino": "PEK",
+        "aerolinea": "Korean-Air",
+        "vuelo": "KE515",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "16:25",
+        "hora_llegada": "18:55",
+        "origen": "LAX",
+        "destino": "DFW",
+        "aerolinea": "American-Airlines",
+        "vuelo": "AA616",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "08:10",
+        "hora_llegada": "10:40",
+        "origen": "CAI",
+        "destino": "JNB",
+        "aerolinea": "EgyptAir",
+        "vuelo": "MS717",
+        "estado": "cancelado"
+      },
+      {
+        "hora_salida": "14:45",
+        "hora_llegada": "17:15",
+        "origen": "EZE",
+        "destino": "LIM",
+        "aerolinea": "LATAM",
+        "vuelo": "LA808",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "11:00",
+        "hora_llegada": "13:30",
+        "origen": "DME",
+        "destino": "LED",
+        "aerolinea": "Aeroflot",
+        "vuelo": "SU919",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "21:15",
+        "hora_llegada": "23:45",
+        "origen": "DFW",
+        "destino": "DEN",
+        "aerolinea": "United-Airlines",
+        "vuelo": "UA020",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "07:30",
+        "hora_llegada": "09:50",
+        "origen": "AMS",
+        "destino": "ZRH",
+        "aerolinea": "Swiss",
+        "vuelo": "LX121",
+        "estado": "cancelado"
+      },
+      {
+        "hora_salida": "12:50",
+        "hora_llegada": "15:20",
+        "origen": "LIM",
+        "destino": "SCL",
+        "aerolinea": "LATAM",
+        "vuelo": "LA222",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "17:35",
+        "hora_llegada": "19:55",
+        "origen": "DEL",
+        "destino": "CMB",
+        "aerolinea": "SriLankan-Airlines",
+        "vuelo": "UL323",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "06:45",
+        "hora_llegada": "09:15",
+        "origen": "SFO",
+        "destino": "YVR",
+        "aerolinea": "Air-Canada",
+        "vuelo": "AC424",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "10:30",
+        "hora_llegada": "13:00",
+        "origen": "MEX",
+        "destino": "SJO",
+        "aerolinea": "Aeroméxico",
+        "vuelo": "AM525",
+        "estado": "cancelado"
+      },
+      {
+        "hora_salida": "15:25",
+        "hora_llegada": "18:00",
+        "origen": "MAD",
+        "destino": "FCO",
+        "aerolinea": "Iberia",
+        "vuelo": "IB626",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "19:40",
+        "hora_llegada": "22:10",
+        "origen": "NRT",
+        "destino": "HKG",
+        "aerolinea": "Japan-Airlines",
+        "vuelo": "JL727",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "08:30",
+        "hora_llegada": "11:00",
+        "origen": "IST",
+        "destino": "VIE",
+        "aerolinea": "Turkish-Airlines",
+        "vuelo": "TK828",
+        "estado": "cancelado"
+      },
+      {
+        "hora_salida": "13:20",
+        "hora_llegada": "15:50",
+        "origen": "SCL",
+        "destino": "EZE",
+        "aerolinea": "LATAM",
+        "vuelo": "LA929",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "22:10",
+        "hora_llegada": "00:40",
+        "origen": "GMP",
+        "destino": "KIX",
+        "aerolinea": "Korean-Air",
+        "vuelo": "KE030",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "06:00",
+        "hora_llegada": "08:30",
+        "origen": "MEX",
+        "destino": "JFK",
+        "aerolinea": "Aeromexico",
+        "vuelo": "AM001",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "07:30",
+        "hora_llegada": "10:15",
+        "origen": "CDG",
+        "destino": "AMS",
+        "aerolinea": "KLM",
+        "vuelo": "KL101",
+        "estado": "cancelado"
+      },
+      {
+        "hora_salida": "08:45",
+        "hora_llegada": "11:20",
+        "origen": "AMS",
+        "destino": "DXB",
+        "aerolinea": "Emirates",
+        "vuelo": "EK606",
+        "estado": "a-tiempo"
+      },
+      {
+        "hora_salida": "10:15",
+        "hora_llegada": "12:45",
+        "origen": "CDG",
+        "destino": "BER",
+        "aerolinea": "Air-France",
+        "vuelo": "AF102",
+        "estado": "retrasado"
+      },
+      {
+        "hora_salida": "14:00",
+        "hora_llegada": "16:30",
+        "origen": "HND",
+        "destino": "SIN",
+        "aerolinea": "Singapore-Airlines",
+        "vuelo": "SQ303",
+        "estado": "cancelado"
+      }
+    ]
+  }
